@@ -4,6 +4,7 @@ Get instant answers to your questions with a chatbot powered by Python, Twilio, 
 # Required Installations
 
 - In order to run this program, you will need to follow these steps:
+
     - Download **pip** if you haven't already, from [here](https://pip.pypa.io/en/stable/installing/)
     - Create a free **Twilio** account [here](https://www.twilio.com/) and press “Get a Free API Key.”
       then run `pip install twilio`
