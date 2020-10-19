@@ -1,5 +1,5 @@
 # SATA-SMS-Bot
-Get instant answers to your questions with a chatbot powered by Python, Twilio, and Wikipedia API!
+Get instant answers to your questions with a chatbot powered by Python, Twilio, Wikipedia, and Wolfram Alpha!
 
 # Required Installations
 
