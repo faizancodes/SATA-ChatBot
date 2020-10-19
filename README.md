@@ -57,6 +57,6 @@ Get instant answers to your questions with a chatbot powered by Python, Twilio, 
 
 # Troubleshooting
 
-If you are having any issues running the code, please refer to these links or contact me. 
+If you are having any issues running the code, please refer to this link or contact me. 
     
    - https://makezine.com/projects/sms-bot/
