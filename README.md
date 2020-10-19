@@ -45,7 +45,7 @@ Get instant answers to your questions with a chatbot powered by Python, Twilio, 
    
    - Next, you want to copy the http address that is highlighted in the yellow box and navigate to your Twilio account screen. 
    
-   - Click the “#” on the top left of the screen, then click on your Twilio number, scroll down and **enter the http address into the space that says “A message comes in”. Make sure the dropdown is set to “webhook”: as highlighted in the blue box:** 
+   - Click the “#” on the top left of the screen, then click on your Twilio number, scroll down and **enter the http address into the space that says “A message comes in”, as highlighted in the blue box. And make sure the dropdown is set to “webhook”** 
    
    
    ![image](https://user-images.githubusercontent.com/43652410/96400932-146c1800-11a0-11eb-97ee-5f6d23959d9e.png)
