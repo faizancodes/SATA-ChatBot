@@ -23,13 +23,13 @@ Get instant answers to your questions with a chatbot powered by Python, Twilio, 
     
 # How To Run
 
-   - First, download the zip file containing all the source code and unzip the folder. Then, move the folder to your desktop and rename it to **SMSBot**
+   - First, download the zip file containing all the source code and unzip the folder. Then, move the folder to your desktop and rename it to **ChatBot**
    
-   - Open the `sata_smsbot.py` file and change the `app_id` variable located on line 70 to your designated Wolfram Alpha AppID.
+   - Open the `sata_chatbot.py` file and change the `app_id` variable located on line 70 to your designated Wolfram Alpha AppID.
    
    ![image](https://user-images.githubusercontent.com/43652410/96403845-53ea3280-11a7-11eb-87dc-ca8920d37e34.png)
    
-   - Run `cd desktop` in terminal to navigate to your desktop directory. Then, run `cd SMSBot` to navigate to that folder and finally run `sata_smsbot.py` to execute the code.
+   - Run `cd desktop` in terminal to navigate to your desktop directory. Then, run `cd SMSBot` to navigate to that folder and finally run `sata_chatbot.py` to execute the code.
    
    - When you run the code, your terminal should look like this:
    
