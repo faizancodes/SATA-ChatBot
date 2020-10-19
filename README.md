@@ -25,7 +25,7 @@ Get instant answers to your questions with a chatbot powered by Python, Twilio, 
    
    - Your **Port Number** is highlighted in the yellow box. In my case, it is 5000.
    
-   - Next, you want to open up Ngrok and type in `ngrok http (port number)`. **Replace "port number" inside the parentheses with your port number.**, in my case it would be `ngrok http 5000`. 
+   - Next, you want to open up Ngrok and type in `ngrok http (port number)`. **Replace "port number" inside the parentheses with your port number**, in my case it would be `ngrok http 5000`. 
    
    - Your Ngrok should look like this: 
    
@@ -41,6 +41,9 @@ Get instant answers to your questions with a chatbot powered by Python, Twilio, 
 
    - **Save your changes** and you are now set!
    - Message your Twilio number and test out the program!
+
+   - Here are some examples of what you can do with this program: 
+![image](https://user-images.githubusercontent.com/43652410/96403035-59467d80-11a5-11eb-84b9-68a55843c990.png)
 
 
 # Troubleshooting
