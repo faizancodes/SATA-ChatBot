@@ -27,7 +27,7 @@ Get instant answers to your questions with a chatbot powered by Python, Twilio, 
    
    - Open the `sata_chatbot.py` file and change the `app_id` variable located on line 70 to your designated Wolfram Alpha AppID.
    
-![image](https://user-images.githubusercontent.com/43652410/96471266-23cd7e80-11fd-11eb-87f5-d343cbf0c574.png)
+![image](https://user-images.githubusercontent.com/43652410/96471993-f3d2ab00-11fd-11eb-8f5c-2cb4bdfcdbf3.png)
    
    - Run `cd desktop` in terminal to navigate to your desktop directory. Then, run `cd ChatBot` to navigate to that folder and finally run `sata_chatbot.py` to execute the code.
    
