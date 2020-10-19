@@ -67,7 +67,7 @@ import wikipedia
 import wolframalpha 
 from twilio.twiml.messaging_response import Message, MessagingResponse
 
-app_id = 'V4RWR7-WAT6JVK6AW' 
+app_id = 'INSERT_WOLFRAM_APP_ID_HERE' 
 
 # set up Flask to connect this code to the local host, which will
 # later be connected to the internet through Ngrok
