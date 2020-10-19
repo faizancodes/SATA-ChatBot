@@ -1,7 +1,8 @@
 # SATA-SMS-Bot
 Get instant answers to your questions with a chatbot powered by Python, Twilio, Wikipedia, and Wolfram Alpha!
 
-Here are some examples of what you can do with this program: 
+**Here are some examples of what you can do with this program:**
+
 ![image](https://user-images.githubusercontent.com/43652410/96403035-59467d80-11a5-11eb-84b9-68a55843c990.png)
 
 
