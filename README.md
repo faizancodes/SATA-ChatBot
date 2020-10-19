@@ -17,6 +17,7 @@ Get instant answers to your questions with a chatbot powered by Python, Twilio, 
     - Install the Wikipedia API by running `pip install wikipedia`
     - Download **Ngrok** [here](https://ngrok.com/)
     - Install the Wolfram Alpha API by running `pip install wolframalpha`
+    
         - Then, sign up for free API access of Wolfram Alpha [here](https://products.wolframalpha.com/api/)
         - Follow the steps accordingly to obtain your AppID
     
