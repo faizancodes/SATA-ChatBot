@@ -23,7 +23,7 @@ Get instant answers to your questions with a chatbot powered by Python, Twilio, 
     
 # How To Run
 
-   - First, download the zip file containing all the source code and unzip the folder. Then, move the folder to your desktop and rename it to SMSBot 
+   - First, download the zip file containing all the source code and unzip the folder. Then, move the folder to your desktop and rename it to **SMSBot**
    
    - Open the `sata_smsbot.py` file and change the `app_id` variable located on line 70 to your designated Wolfram Alpha AppID.
    
