@@ -27,13 +27,13 @@ Get instant answers to your questions with a chatbot powered by Python, Twilio, 
    
    - Open the `sata_chatbot.py` file and change the `app_id` variable located on line 70 to your designated Wolfram Alpha AppID.
    
-   ![image](https://user-images.githubusercontent.com/43652410/96403845-53ea3280-11a7-11eb-87dc-ca8920d37e34.png)
+![image](https://user-images.githubusercontent.com/43652410/96471266-23cd7e80-11fd-11eb-87f5-d343cbf0c574.png)
    
    - Run `cd desktop` in terminal to navigate to your desktop directory. Then, run `cd ChatBot` to navigate to that folder and finally run `sata_chatbot.py` to execute the code.
    
    - When you run the code, your terminal should look like this:
    
-   ![image](https://user-images.githubusercontent.com/43652410/96400763-9740a300-119f-11eb-9470-e5b4d90f876d.png)
+   ![image](https://user-images.githubusercontent.com/43652410/96471648-8e7eba00-11fd-11eb-9354-438390e63b05.png)
    
    - Your **Port Number** is highlighted in the yellow box. In my case, it is 5000.
    
