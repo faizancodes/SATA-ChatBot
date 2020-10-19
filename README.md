@@ -14,9 +14,9 @@ Get instant answers to your questions with a chatbot powered by Python, Twilio, 
     - Create a free **Twilio** account [here](https://www.twilio.com/) and press “Get a Free API Key.”
       then run `pip install twilio`
     - Install **Flask** by running `pip install Flask`
-    - Install the Wikipedia API by running `pip install wikipedia`
+    - Install the **Wikipedia API** by running `pip install wikipedia`
     - Download **Ngrok** [here](https://ngrok.com/)
-    - Install the Wolfram Alpha API by running `pip install wolframalpha`
+    - Install the **Wolfram Alpha API** by running `pip install wolframalpha`
     
         - Then, sign up for free API access of Wolfram Alpha [here](https://products.wolframalpha.com/api/)
         - Follow the steps accordingly to obtain your AppID
