@@ -5,6 +5,7 @@ Get instant answers to your questions with a chatbot powered by Python, Twilio, 
 
 ![image](https://user-images.githubusercontent.com/43652410/96490211-84b18280-120e-11eb-9331-90d1917b1f32.png)
 
+To check out the full range of capabilities of this program, visit the Wolfram Alpha website [here](https://www.wolframalpha.com/)
 
 # Required Installations
 
