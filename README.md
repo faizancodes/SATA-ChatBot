@@ -14,9 +14,6 @@ To check out the full range of commands you can enter, visit the Wolfram Alpha w
 - In order to run this program, you will need to follow these steps:
 
     - Download **pip** if you haven't already, from [here](https://pip.pypa.io/en/stable/installing/)
-    - Run the following command in your Commmand Prompt (Windows) or Terminal (Mac):
-        
-        `pip install -r requirements.txt`
         
     - Download **Ngrok** [here](https://ngrok.com/)
     
@@ -28,7 +25,10 @@ To check out the full range of commands you can enter, visit the Wolfram Alpha w
         - Follow the steps accordingly to obtain your AppID
     
 # How To Run
-
+    
+    - If you do not have git installed, make sure to download it from [here](https://git-scm.com/downloads). Installing git will save you a lot of time installing files in the future
+        - Once you have git installed, run 
+    
    - First, download the zip file containing all the source code and unzip the folder. Then, move the folder to your desktop and rename it to **ChatBot**
    
    - Open the `sata_chatbot.py` file and change the `app_id` variable located on line 70 to your designated Wolfram Alpha AppID.
