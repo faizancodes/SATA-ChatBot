@@ -14,16 +14,17 @@ To check out the full range of commands you can enter, visit the Wolfram Alpha w
 - In order to run this program, you will need to follow these steps:
 
     - Download **pip** if you haven't already, from [here](https://pip.pypa.io/en/stable/installing/)
-    - Install **Flask** by running `pip install Flask`
-    - Install the **Wikipedia API** by running `pip install wikipedia`
+    - Run the following command in your Commmand Prompt (Windows) or Terminal (Mac):
+        
+        `pip install -r requirements.txt`
+        
     - Download **Ngrok** [here](https://ngrok.com/)
+    
     - Create a **Twilio** account [here](https://www.twilio.com/try-twilio) and follow the steps to obtain a phone number that you will be sending texts to
         - **Unfortunately, you will have to pay a minimum of $20 to upgrade your account to be able to use the phone number for this project**
         - Read more about sending SMS messages with Twilio [here](https://www.twilio.com/docs/sms/quickstart/python)
-        - Once you upgrade your account, run `pip install twilio`
-    - Install the **Wolfram Alpha API** by running `pip install wolframalpha`
-    
-        - Then, sign up for free API access of Wolfram Alpha [here](https://products.wolframalpha.com/api/)
+ 
+    - Sign up for free API access of **Wolfram Alpha** [here](https://products.wolframalpha.com/api/)
         - Follow the steps accordingly to obtain your AppID
     
 # How To Run
