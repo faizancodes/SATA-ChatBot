@@ -25,17 +25,17 @@ To check out the full range of commands you can enter, visit the Wolfram Alpha w
         - Follow the steps accordingly to obtain your AppID
     
 # How To Run
+       
+   - If you do not have git installed, make sure to download it from [here](https://git-scm.com/downloads). Installing git will save you a lot of time installing files in the future
+        - Once you have git installed, run `git clone https://github.com/faizancodes/SATA-ChatBot.git` to download all the files from this repository.
     
-    - If you do not have git installed, make sure to download it from [here](https://git-scm.com/downloads). Installing git will save you a lot of time installing files in the future
-        - Once you have git installed, run 
-    
-   - First, download the zip file containing all the source code and unzip the folder. Then, move the folder to your desktop and rename it to **ChatBot**
+   - Then, run `cd SATA-Chatbot` to navigate to the corresponding folder with all the files you just downloaded and run `pip install -r requirements.txt` to install all the necessary libraries for the program to run  
    
    - Open the `sata_chatbot.py` file and change the `app_id` variable located on line 70 to your designated Wolfram Alpha AppID.
    
 ![image](https://user-images.githubusercontent.com/43652410/96471993-f3d2ab00-11fd-11eb-8f5c-2cb4bdfcdbf3.png)
    
-   - Run `cd desktop` in terminal to navigate to your desktop directory. Then, run `cd ChatBot` to navigate to that folder and finally run `sata_chatbot.py` to execute the code.
+   - Run `sata_chatbot.py` to execute the code.
    
    - When you run the code, your terminal should look like this:
    
