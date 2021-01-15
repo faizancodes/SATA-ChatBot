@@ -24,7 +24,7 @@ To check out the full range of commands you can enter, visit the Wolfram Alpha w
     - Sign up for free API access of **Wolfram Alpha** [here](https://products.wolframalpha.com/api/)
         - Follow the steps accordingly to obtain your AppID
     
-# How To Run
+# How To Run the Code
        
    - If you do not have git installed, make sure to download it from [here](https://git-scm.com/downloads). Installing git will save you a lot of time installing files in the future
         - Once you have git installed, run `git clone https://github.com/faizancodes/SATA-ChatBot.git` to download all the files from this repository.
